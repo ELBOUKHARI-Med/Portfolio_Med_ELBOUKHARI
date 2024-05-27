@@ -1,5 +1,5 @@
 import React from 'react'; // Importation du module React.
-import CV from '../../assets/CV_MohammedELBOUKHARI.pdf'; // Importation du chemin vers le fichier PDF du CV.
+import CV from '../../assets/CV_Mohammed_ELBOUKHARI.pdf'; // Importation du chemin vers le fichier PDF du CV.
 
 const CTA = () => { // Définition du composant CTA (Call to Action) sous forme de fonction.
   return ( // Rendu du composant CTA.
