@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio_Med_ELBOUKHARI/static/css/main.3bedc529.css",
+    "main.js": "/Portfolio_Med_ELBOUKHARI/static/js/main.8787d0a5.js",
+    "static/media/Architecteinterieur.png": "/Portfolio_Med_ELBOUKHARI/static/media/Architecteinterieur.a160ebe796c36a7a7cf7.png",
+    "static/media/Backend.png": "/Portfolio_Med_ELBOUKHARI/static/media/Backend.ddd6c2aa30475a714692.png",
+    "static/media/Kasa.png": "/Portfolio_Med_ELBOUKHARI/static/media/Kasa.af8dff88dd5a8072c872.png",
+    "static/media/Booki.png": "/Portfolio_Med_ELBOUKHARI/static/media/Booki.08f0734842c138019dbb.png",
+    "static/media/Qwenta.png": "/Portfolio_Med_ELBOUKHARI/static/media/Qwenta.a189fe5fb31cfd6a41e7.png",
+    "static/media/Nina.png": "/Portfolio_Med_ELBOUKHARI/static/media/Nina.0af65f8446574ecd05d5.png",
+    "static/media/me.jpg": "/Portfolio_Med_ELBOUKHARI/static/media/me.84015fb9a31ede1482a1.jpg",
+    "static/media/CV_Mohammed_ELBOUKHARI.pdf": "/Portfolio_Med_ELBOUKHARI/static/media/CV_Mohammed_ELBOUKHARI.366eb7e12641a11c7a24.pdf",
+    "index.html": "/Portfolio_Med_ELBOUKHARI/index.html",
+    "main.3bedc529.css.map": "/Portfolio_Med_ELBOUKHARI/static/css/main.3bedc529.css.map",
+    "main.8787d0a5.js.map": "/Portfolio_Med_ELBOUKHARI/static/js/main.8787d0a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bedc529.css",
+    "static/js/main.8787d0a5.js"
+  ]
+}
